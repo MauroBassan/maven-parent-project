@@ -1,0 +1,2 @@
+Questo progetto si chiama ${project.name} ed è alla versione ${project.version}!
+E' stato compilato su ${os.name} ${os.version} usando Java ${java.version}
